@@ -1,0 +1,26 @@
+{
+    "id": "281AA510",
+    "path": "~/UA/Teaching/TimeSeries_Forecasting2/code/statisticaltests.R",
+    "project_path": "statisticaltests.R",
+    "type": "r_source",
+    "hash": "1528500289",
+    "contents": "",
+    "dirty": false,
+    "created": 1710800553906.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "50,52",
+        "scrollLine": "30"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1710801214,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1710801214300,
+    "read_only": false,
+    "read_only_alternatives": []
+}
